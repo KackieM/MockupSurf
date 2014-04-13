@@ -1,0 +1,73 @@
+article{
+ +	position: relative;
+ +	width: 650px;
+ +}
+ +
+ +.metabox h2{
+ +	padding: 0 0 15px 0;
+ +	font-family: 'Helvetica';
+ +	font-size: 35px;
+ +	text-transform: uppercase;
+ +
+ +}
+ +
+ +.metabox img{
+ +	width: 30px;
+ +	float: left;
+ +	display: inline-block;
+ +}
+ +
+ +.metabox p{
+ +	float: left;
+ +	font-family: 'Helvetica';
+ +}
+ +
+ +.metabox p.authorname{
+ +	color: #347eb8;
+ +	padding: 5px 0 0 10px;
+ +}
+ +
+ +.metabox p.date{
+ +	padding: 5px 0 0 5px;
+ +	color: #dde2e5;
+ +}
+ +
+ +.metabox p.date span{
+ +	text-decoration: underline;
+ +
+ +}
+ +
+ +article .arccontent{
+ +	position: relative;
+ +	top: 35px;
+ +}
+ +
+ +article p{
+ +	padding: 0 0 20px 0;
+ +	font-family: 'Helvetica';
+ +	font-size: 16px;
+ +	line-height: 20px;
+ +
+ +}
+ +
+ +article blockquote{
+ +	margin: 20px 10px;
+ +	padding: 20px 0 20px 15px;
+ +	min-height: 40px;
+ +	font-family: 'Helvetica';
+ +
+ +	font-size: 35px;
+ +	text-transform: uppercase;
+ +	color: #106db3;
+ +	border-left: 2px solid #d3d3d3;
+ +}
+ +
+ +.arcactions{
+ +	position: relative;
+ +	top: 50px;
+ +}
+ +
+ +.arcactions ul li{
+ +	float: left;
+ +	padding: 0 10px 0 0;
+ +}
